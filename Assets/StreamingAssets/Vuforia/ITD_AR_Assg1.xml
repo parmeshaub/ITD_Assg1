@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Card_Nagado" size="0.400000 0.699947" />
+    <ImageTarget name="Card_Okedo" size="0.500000 0.874933" />
+    <ImageTarget name="Card_Ojime" size="0.600000 1.049920" />
+    <ImageTarget name="Card_ODaiko" size="0.400000 0.699947" />
+    <ImageTarget name="Card_KatsugiOkedo" size="0.600000 1.049920" />
+    <ImageTarget name="Card_Shime_Bolted" size="0.600000 1.049920" />
+  </Tracking>
+</QCARConfig>
